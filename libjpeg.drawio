@@ -1,31 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2024-06-29T00:15:17.634Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="BWlGPxBCfh2Q88z2jVeO" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-29T00:36:57.090Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="2HiFssZd6VXsrMNJ-DwW" version="24.6.4" type="github">
   <diagram name="Page-1" id="9GNOP1papJ0DBAOT-mjX">
-    <mxGraphModel dx="989" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2876" dy="1114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="f2yBBCpayn5oFeo3ENTH-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="f2yBBCpayn5oFeo3ENTH-1" target="f2yBBCpayn5oFeo3ENTH-10">
+        <mxCell id="f2yBBCpayn5oFeo3ENTH-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" edge="1" parent="1" source="f2yBBCpayn5oFeo3ENTH-1" target="f2yBBCpayn5oFeo3ENTH-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f2yBBCpayn5oFeo3ENTH-1" value="Load all libjpeg directories" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
           <mxGeometry x="280" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="f2yBBCpayn5oFeo3ENTH-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="f2yBBCpayn5oFeo3ENTH-2" target="f2yBBCpayn5oFeo3ENTH-1">
+        <mxCell id="f2yBBCpayn5oFeo3ENTH-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" edge="1" parent="1" source="f2yBBCpayn5oFeo3ENTH-2" target="f2yBBCpayn5oFeo3ENTH-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f2yBBCpayn5oFeo3ENTH-2" value="Directories" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
-          <mxGeometry x="40" y="140" width="140" height="80" as="geometry" />
+          <mxGeometry x="120" y="140" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="f2yBBCpayn5oFeo3ENTH-3" value="path" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="f2yBBCpayn5oFeo3ENTH-2">
-          <mxGeometry y="20" width="140" height="30" as="geometry" />
+          <mxGeometry y="20" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f2yBBCpayn5oFeo3ENTH-8" value="tree of content" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="f2yBBCpayn5oFeo3ENTH-2">
-          <mxGeometry y="50" width="140" height="30" as="geometry" />
+          <mxGeometry y="50" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f2yBBCpayn5oFeo3ENTH-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="f2yBBCpayn5oFeo3ENTH-10" target="f2yBBCpayn5oFeo3ENTH-12">
+        <mxCell id="f2yBBCpayn5oFeo3ENTH-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" edge="1" parent="1" source="f2yBBCpayn5oFeo3ENTH-10" target="f2yBBCpayn5oFeo3ENTH-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="f2yBBCpayn5oFeo3ENTH-10" value="Compare trees" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
+        <mxCell id="f2yBBCpayn5oFeo3ENTH-10" value="Compare trees of last two directories" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
           <mxGeometry x="280" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="f2yBBCpayn5oFeo3ENTH-15" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" edge="1" parent="1" source="f2yBBCpayn5oFeo3ENTH-12" target="f2yBBCpayn5oFeo3ENTH-14">
@@ -37,44 +37,191 @@
         <mxCell id="f2yBBCpayn5oFeo3ENTH-12" value="Difference?" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
           <mxGeometry x="300" y="320" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="f2yBBCpayn5oFeo3ENTH-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=12;fontColor=default;" edge="1" parent="1" source="f2yBBCpayn5oFeo3ENTH-14" target="f2yBBCpayn5oFeo3ENTH-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="f2yBBCpayn5oFeo3ENTH-14" value="Print changes" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
           <mxGeometry x="440" y="340" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="f2yBBCpayn5oFeo3ENTH-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="f2yBBCpayn5oFeo3ENTH-16" target="f2yBBCpayn5oFeo3ENTH-23">
+        <mxCell id="f2yBBCpayn5oFeo3ENTH-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=12;fontColor=default;" edge="1" parent="1" source="f2yBBCpayn5oFeo3ENTH-16" target="f2yBBCpayn5oFeo3ENTH-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f2yBBCpayn5oFeo3ENTH-16" value="Move files" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
           <mxGeometry x="280" y="440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="f2yBBCpayn5oFeo3ENTH-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="f2yBBCpayn5oFeo3ENTH-18" target="f2yBBCpayn5oFeo3ENTH-16">
+        <mxCell id="f2yBBCpayn5oFeo3ENTH-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" edge="1" parent="1" source="f2yBBCpayn5oFeo3ENTH-18" target="f2yBBCpayn5oFeo3ENTH-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f2yBBCpayn5oFeo3ENTH-18" value="File location" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
-          <mxGeometry x="40" y="405" width="140" height="110" as="geometry" />
+          <mxGeometry x="120" y="405" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="f2yBBCpayn5oFeo3ENTH-19" value="file name" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="f2yBBCpayn5oFeo3ENTH-18">
-          <mxGeometry y="20" width="140" height="30" as="geometry" />
+          <mxGeometry y="20" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f2yBBCpayn5oFeo3ENTH-20" value="location" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="f2yBBCpayn5oFeo3ENTH-18">
-          <mxGeometry y="50" width="140" height="30" as="geometry" />
+          <mxGeometry y="50" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f2yBBCpayn5oFeo3ENTH-21" value="operation" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="f2yBBCpayn5oFeo3ENTH-18">
-          <mxGeometry y="80" width="140" height="30" as="geometry" />
+          <mxGeometry y="80" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f2yBBCpayn5oFeo3ENTH-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="f2yBBCpayn5oFeo3ENTH-23" target="f2yBBCpayn5oFeo3ENTH-25">
+        <mxCell id="f2yBBCpayn5oFeo3ENTH-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" edge="1" parent="1" source="f2yBBCpayn5oFeo3ENTH-23" target="f2yBBCpayn5oFeo3ENTH-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f2yBBCpayn5oFeo3ENTH-23" value="Diff source files" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
-          <mxGeometry x="280" y="520" width="120" height="40" as="geometry" />
+          <mxGeometry x="280" y="638.5699999999999" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="f2yBBCpayn5oFeo3ENTH-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" edge="1" parent="1" source="f2yBBCpayn5oFeo3ENTH-25" target="f2yBBCpayn5oFeo3ENTH-27">
+        <mxCell id="f2yBBCpayn5oFeo3ENTH-28" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" edge="1" parent="1" source="f2yBBCpayn5oFeo3ENTH-25" target="f2yBBCpayn5oFeo3ENTH-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f2yBBCpayn5oFeo3ENTH-71" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=12;fontColor=default;" edge="1" parent="1" source="f2yBBCpayn5oFeo3ENTH-25" target="f2yBBCpayn5oFeo3ENTH-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f2yBBCpayn5oFeo3ENTH-25" value="Difference?" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
-          <mxGeometry x="300" y="600" width="80" height="80" as="geometry" />
+          <mxGeometry x="300" y="718.5699999999999" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="f2yBBCpayn5oFeo3ENTH-27" value="Print changes" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
-          <mxGeometry x="440" y="620" width="120" height="40" as="geometry" />
+        <mxCell id="f2yBBCpayn5oFeo3ENTH-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=12;fontColor=default;" edge="1" parent="1" source="f2yBBCpayn5oFeo3ENTH-27" target="f2yBBCpayn5oFeo3ENTH-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f2yBBCpayn5oFeo3ENTH-27" value="Print changed files" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
+          <mxGeometry x="440" y="738.5699999999999" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f2yBBCpayn5oFeo3ENTH-29" value="Done" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
+          <mxGeometry x="280" y="999.9999999999999" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f2yBBCpayn5oFeo3ENTH-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=12;fontColor=default;" edge="1" parent="1" source="f2yBBCpayn5oFeo3ENTH-31" target="f2yBBCpayn5oFeo3ENTH-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f2yBBCpayn5oFeo3ENTH-31" value="Resolve changes (manually)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
+          <mxGeometry x="440" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f2yBBCpayn5oFeo3ENTH-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=12;fontColor=default;" edge="1" parent="1" source="f2yBBCpayn5oFeo3ENTH-34" target="f2yBBCpayn5oFeo3ENTH-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f2yBBCpayn5oFeo3ENTH-34" value="Resolve changes (manually)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
+          <mxGeometry x="440" y="838.5699999999999" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f2yBBCpayn5oFeo3ENTH-37" value="Compare trees of last two directories" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
+          <mxGeometry x="680" y="238.57" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f2yBBCpayn5oFeo3ENTH-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=12;fontColor=default;" edge="1" parent="1" source="f2yBBCpayn5oFeo3ENTH-38" target="f2yBBCpayn5oFeo3ENTH-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f2yBBCpayn5oFeo3ENTH-38" value="Save all files and paths in array" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
+          <mxGeometry x="720" y="318.57" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f2yBBCpayn5oFeo3ENTH-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=12;fontColor=default;" edge="1" parent="1" source="f2yBBCpayn5oFeo3ENTH-39" target="f2yBBCpayn5oFeo3ENTH-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f2yBBCpayn5oFeo3ENTH-39" value="Sort array" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
+          <mxGeometry x="720" y="398.57000000000005" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f2yBBCpayn5oFeo3ENTH-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=12;fontColor=default;" edge="1" parent="1" source="f2yBBCpayn5oFeo3ENTH-40" target="f2yBBCpayn5oFeo3ENTH-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f2yBBCpayn5oFeo3ENTH-40" value="Check differences" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
+          <mxGeometry x="720" y="478.57000000000005" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f2yBBCpayn5oFeo3ENTH-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=12;fontColor=default;" edge="1" parent="1" source="f2yBBCpayn5oFeo3ENTH-41" target="f2yBBCpayn5oFeo3ENTH-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f2yBBCpayn5oFeo3ENTH-41" value="Save all differences in array" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
+          <mxGeometry x="720" y="558.57" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f2yBBCpayn5oFeo3ENTH-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=12;fontColor=default;dashed=1;" edge="1" parent="1" source="f2yBBCpayn5oFeo3ENTH-42" target="f2yBBCpayn5oFeo3ENTH-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f2yBBCpayn5oFeo3ENTH-42" value="Change" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
+          <mxGeometry x="880" y="523.57" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="f2yBBCpayn5oFeo3ENTH-43" value="file name" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="f2yBBCpayn5oFeo3ENTH-42">
+          <mxGeometry y="20" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f2yBBCpayn5oFeo3ENTH-44" value="location" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="f2yBBCpayn5oFeo3ENTH-42">
+          <mxGeometry y="50" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f2yBBCpayn5oFeo3ENTH-45" value="status" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="f2yBBCpayn5oFeo3ENTH-42">
+          <mxGeometry y="80" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f2yBBCpayn5oFeo3ENTH-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=12;fontColor=default;dashed=1;" edge="1" parent="1" source="f2yBBCpayn5oFeo3ENTH-46" target="f2yBBCpayn5oFeo3ENTH-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f2yBBCpayn5oFeo3ENTH-46" value="status" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="548.57" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="f2yBBCpayn5oFeo3ENTH-47" value="new file" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="f2yBBCpayn5oFeo3ENTH-46">
+          <mxGeometry y="20" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f2yBBCpayn5oFeo3ENTH-48" value="new directory" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="f2yBBCpayn5oFeo3ENTH-46">
+          <mxGeometry y="50" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f2yBBCpayn5oFeo3ENTH-49" value="file removed" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="f2yBBCpayn5oFeo3ENTH-46">
+          <mxGeometry y="80" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f2yBBCpayn5oFeo3ENTH-50" value="directory removed" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="f2yBBCpayn5oFeo3ENTH-46">
+          <mxGeometry y="110" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f2yBBCpayn5oFeo3ENTH-58" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=12;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="718.5699999999999" as="sourcePoint" />
+            <mxPoint x="700" y="278.57" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f2yBBCpayn5oFeo3ENTH-59" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=12;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1200" y="718.5699999999999" as="sourcePoint" />
+            <mxPoint x="1200" y="258.57" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f2yBBCpayn5oFeo3ENTH-60" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=12;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="258.57" as="sourcePoint" />
+            <mxPoint x="1200" y="258.57" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f2yBBCpayn5oFeo3ENTH-61" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=12;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="718.5699999999999" as="sourcePoint" />
+            <mxPoint x="1200" y="718.5699999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f2yBBCpayn5oFeo3ENTH-63" value="Save array in a file" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
+          <mxGeometry x="720" y="640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f2yBBCpayn5oFeo3ENTH-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=12;fontColor=default;dashed=1;" edge="1" parent="1" source="f2yBBCpayn5oFeo3ENTH-65" target="f2yBBCpayn5oFeo3ENTH-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f2yBBCpayn5oFeo3ENTH-65" value="operation" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="460" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="f2yBBCpayn5oFeo3ENTH-66" value="move" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="f2yBBCpayn5oFeo3ENTH-65">
+          <mxGeometry y="20" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f2yBBCpayn5oFeo3ENTH-67" value="delete" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="f2yBBCpayn5oFeo3ENTH-65">
+          <mxGeometry y="50" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f2yBBCpayn5oFeo3ENTH-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=12;fontColor=default;" edge="1" parent="1" source="f2yBBCpayn5oFeo3ENTH-70" target="f2yBBCpayn5oFeo3ENTH-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f2yBBCpayn5oFeo3ENTH-70" value="Save tree of content in a file" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
+          <mxGeometry x="280" y="838.5699999999999" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f2yBBCpayn5oFeo3ENTH-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=12;fontColor=default;" edge="1" parent="1" source="f2yBBCpayn5oFeo3ENTH-74" target="f2yBBCpayn5oFeo3ENTH-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f2yBBCpayn5oFeo3ENTH-74" value="Compile two projects" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
+          <mxGeometry x="280" y="558.5699999999999" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f2yBBCpayn5oFeo3ENTH-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=12;fontColor=default;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="f2yBBCpayn5oFeo3ENTH-77" target="f2yBBCpayn5oFeo3ENTH-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f2yBBCpayn5oFeo3ENTH-77" value="Configured file is needed (jconfig.h)" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=12;fontColor=default;fillColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="558.57" width="120" height="41.43" as="geometry" />
+        </mxCell>
+        <mxCell id="f2yBBCpayn5oFeo3ENTH-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=12;fontColor=default;" edge="1" parent="1" source="f2yBBCpayn5oFeo3ENTH-79" target="f2yBBCpayn5oFeo3ENTH-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f2yBBCpayn5oFeo3ENTH-79" value="Format and save all changes (manually)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
+          <mxGeometry x="280" y="919.9999999999999" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
